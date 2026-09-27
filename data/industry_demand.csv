@@ -1,0 +1,16 @@
+skill,category,demand_score,growth_rate,job_count,status
+Python,Programming,95,18.5,12500,High Demand
+SQL,Database,92,15.2,11200,High Demand
+Machine Learning,AI,90,24.8,8700,Emerging
+Cloud Computing,Cloud,88,27.5,7600,Emerging
+AWS,Cloud,86,22.4,6900,High Demand
+Docker,DevOps,84,21.7,5800,Emerging
+Git,Development,82,12.6,10200,High Demand
+Power BI,Analytics,80,19.8,6400,High Demand
+Data Visualization,Analytics,78,16.4,5900,High Demand
+Statistics,Data Science,76,14.7,7200,High Demand
+React,Web Development,85,20.3,8100,Emerging
+JavaScript,Web Development,91,13.8,13500,High Demand
+Cybersecurity,Security,89,29.1,5200,Emerging
+Generative AI,AI,94,38.6,4300,Emerging
+Large Language Models,AI,93,42.3,3600,Emerging

@@ -1,0 +1,11 @@
+job_id,job_title,company,location,skills
+1,Data Analyst,TechCorp,Hyderabad,"Python;SQL;Excel;Power BI;Statistics;Data Visualization"
+2,Data Scientist,DataLabs,Bangalore,"Python;SQL;Statistics;Machine Learning;Pandas;NumPy"
+3,Machine Learning Engineer,AIWorks,Hyderabad,"Python;Machine Learning;SQL;Git;Docker;AWS"
+4,Frontend Developer,WebTech,Chennai,"HTML;CSS;JavaScript;React;Git"
+5,Backend Developer,CloudSoft,Bangalore,"Python;SQL;REST API;PostgreSQL;Docker;AWS;Git"
+6,Full Stack Developer,DevSolutions,Hyderabad,"HTML;CSS;JavaScript;React;Node.js;SQL;Git"
+7,AI Engineer,FutureAI,Bangalore,"Python;Machine Learning;Generative AI;Large Language Models;Git;Docker"
+8,Business Analyst,ConsultCorp,Hyderabad,"Excel;SQL;Power BI;Statistics;Communication;Problem Solving"
+9,Cloud Engineer,CloudIndia,Bangalore,"AWS;Docker;Git;Python;Linux"
+10,Data Visualization Analyst,InsightTech,Chennai,"Excel;SQL;Power BI;Tableau;Data Visualization"

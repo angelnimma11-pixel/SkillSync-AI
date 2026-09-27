@@ -1,0 +1,11 @@
+course_id,course_name,provider,skills,duration_weeks,level
+1,Python for Data Analysis,SkillLearn,"Python;Pandas;NumPy",6,Intermediate
+2,SQL Mastery,SkillLearn,"SQL;PostgreSQL",4,Intermediate
+3,Power BI Fundamentals,DataAcademy,"Power BI;Data Visualization",4,Beginner
+4,Statistics for Data Science,DataAcademy,"Statistics",5,Intermediate
+5,Machine Learning Fundamentals,AI Academy,"Python;Machine Learning;Statistics",8,Advanced
+6,Full Stack Web Development,CodeSchool,"HTML;CSS;JavaScript;React;Node.js;SQL",12,Intermediate
+7,Cloud Computing with AWS,CloudAcademy,"AWS;Docker;Git",8,Intermediate
+8,Generative AI Fundamentals,AI Academy,"Python;Generative AI;Large Language Models",6,Advanced
+9,Backend Development with Python,CodeSchool,"Python;REST API;PostgreSQL;Docker",8,Intermediate
+10,Data Visualization with Tableau,DataAcademy,"Tableau;Data Visualization",4,Intermediate

@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment / secrets
+.env
+.env.*
+
+# Node
+node_modules/
+frontend/dist/
+
+# Local test files
+hopin_job_test.html
+hopin_job_test2.html
+hopin_page.html
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

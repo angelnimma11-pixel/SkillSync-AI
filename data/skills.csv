@@ -1,0 +1,26 @@
+skill_id,skill_name,category,level
+1,Python,Programming,Intermediate
+2,SQL,Database,Intermediate
+3,Excel,Data Analytics,Beginner
+4,Power BI,Data Analytics,Intermediate
+5,Statistics,Data Science,Intermediate
+6,Machine Learning,Artificial Intelligence,Advanced
+7,Pandas,Data Science,Intermediate
+8,NumPy,Data Science,Intermediate
+9,Java,Programming,Intermediate
+10,JavaScript,Web Development,Intermediate
+11,React,Web Development,Intermediate
+12,Node.js,Backend Development,Intermediate
+13,HTML,Web Development,Beginner
+14,CSS,Web Development,Beginner
+15,Git,Development Tools,Beginner
+16,Docker,DevOps,Intermediate
+17,AWS,Cloud Computing,Intermediate
+18,Communication,Soft Skills,Intermediate
+19,Problem Solving,Soft Skills,Intermediate
+20,Generative AI,Artificial Intelligence,Advanced
+21,Large Language Models,Artificial Intelligence,Advanced
+22,Data Visualization,Data Analytics,Intermediate
+23,Tableau,Data Analytics,Intermediate
+24,REST API,Backend Development,Intermediate
+25,PostgreSQL,Database,Intermediate
